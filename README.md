@@ -1,7 +1,7 @@
 ### terminal-prompt-for-repo
-This repository is for practicing the GitHub Flow for terminal
+***This repository is for practicing the GitHub Flow for terminal
 
-Example: Contribute to an existing repository
+***Example: Contribute to an existing repository
 ### dowload ad repositortm on Github  to our machine
 ### for exemple:
    'git clone git@github.com:olexandragerman/terminal-prompt-for-repo.git'
