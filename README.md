@@ -18,3 +18,10 @@ Example: Contribute to an existing repository
    'git commit -m "this is my repo"
 ### push changes to github
    'git push --set-upstream origin prompt-for-repo'
+
+
+** Example: Start a new repository and publish it to GitHub
+### create a new directory
+   'git init terminal-prompt-for-repo'
+### chenge into the 'terminal-prompt-for-repo'
+   "cd terminal-prompt-for-repo"
